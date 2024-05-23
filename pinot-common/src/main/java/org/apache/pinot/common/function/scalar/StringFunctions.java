@@ -583,8 +583,8 @@ public class StringFunctions {
   }
 
   /**
-   * @param input an input string for prefix strings generations.
-   * @param maxlength the max length of the prefix strings for the string.
+   * @param input an input string for prefix strings generations
+   * @param maxlength the max length of the prefix strings for the string
    * @return generate an array of prefix strings of the string that are shorter than the specified length.
    */
   @ScalarFunction
